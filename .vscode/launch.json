@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/user/github-classroom/NewUU-CS111-Fall2023/week-3-assignments-graphs-Sherzodkhayitmatov/src/cpp",
-      "program": "c:/Users/user/github-classroom/NewUU-CS111-Fall2023/week-3-assignments-graphs-Sherzodkhayitmatov/src/cpp/build/Debug/outDebug",
+      "cwd": "c:/Users/user/github-classroom/NewUU-CS111-Fall2023/week-3-assignments-graphs-Sherzodkhayitmatov",
+      "program": "c:/Users/user/github-classroom/NewUU-CS111-Fall2023/week-3-assignments-graphs-Sherzodkhayitmatov/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
